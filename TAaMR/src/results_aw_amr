@@ -1,0 +1,103 @@
+
+Experiment Name: fgsm_806_770_eps16_it1_linf_XX_images                                             x         y
+0                                 running shoe  9.317301
+1                   jersey, T-shirt, tee shirt  7.923380
+2                       jean, blue jean, denim  6.859491
+3              swimming trunks, bathing trunks  6.827987
+4                                 analog clock  5.346970
+5                                       buckle  5.004588
+6                    clog, geta, patten, sabot  4.586236
+7                                digital watch  4.039151
+8                                         sock  3.670350
+9       wallet, billfold, notecase, pocketbook  3.338979
+10                                    sunglass  3.259606
+11                       stopwatch, stop watch  3.200421
+12                                  sweatshirt  2.732059
+13                                      Loafer  2.509960
+14                       suit, suit of clothes  2.411967
+15                                    knee pad  1.716115
+16                                      sandal  1.641636
+17                            bulletproof vest  1.197056
+18                                 Windsor tie  1.023208
+19                                       chain  1.007838
+20                                  hair slide  0.958019
+21                       wool, woolen, woollen  0.935309
+22      web site, website, internet site, site  0.913133
+23                                    envelope  0.700860
+24                                 cowboy boot  0.693290
+25                                      crutch  0.598891
+26                                    dumbbell  0.553431
+27                                      velvet  0.495737
+28                   lab coat, laboratory coat  0.473256
+29                    bow tie, bow-tie, bowtie  0.434831
+30                             miniskirt, mini  0.433263
+31                     brassiere, bra, bandeau  0.431352
+32                       diaper, nappy, napkin  0.430357
+33                                  Petri dish  0.408258
+34                                 trench coat  0.400421
+35         handkerchief, hankie, hanky, hankey  0.383177
+36                             spotlight, spot  0.347926
+37                                    necklace  0.325674
+38                  cowboy hat, ten-gallon hat  0.325062
+39                            mailbag, postbag  0.306978
+40  academic gown, academic robe, judge's robe  0.306786
+41                        doormat, welcome mat  0.303613
+42                      can opener, tin opener  0.281552
+43                                  comic book  0.274288
+44                                     whistle  0.266565
+45                                sleeping bag  0.245460
+46                                         wig  0.241636
+47                                    sombrero  0.236742
+48                                  hook, claw  0.227911
+49            lighter, light, igniter, ignitor  0.226955
+Experiment Name: original_images                                             x     y
+0                                 running shoe  9.82
+1                   jersey, T-shirt, tee shirt  8.73
+2                       jean, blue jean, denim  7.72
+3              swimming trunks, bathing trunks  7.12
+4                                digital watch  6.00
+5                                 analog clock  4.36
+6                    clog, geta, patten, sabot  4.35
+7       wallet, billfold, notecase, pocketbook  3.95
+8                        stopwatch, stop watch  3.04
+9                                       buckle  2.97
+10                                  sweatshirt  2.84
+11                       suit, suit of clothes  2.67
+12                                    sunglass  2.65
+13                                      Loafer  2.38
+14                                      sandal  1.61
+15                                        sock  1.57
+16                                    knee pad  1.46
+17                            bulletproof vest  1.33
+18                       wool, woolen, woollen  1.20
+19      web site, website, internet site, site  1.00
+20                                  hair slide  0.98
+21                                 cowboy boot  0.97
+22                                 Windsor tie  0.86
+23                                    envelope  0.79
+24                                       chain  0.78
+25                   lab coat, laboratory coat  0.63
+26                                    dumbbell  0.54
+27                                      crutch  0.52
+28                                      velvet  0.50
+29                             miniskirt, mini  0.49
+30                                  Petri dish  0.45
+31                       diaper, nappy, napkin  0.43
+32                     brassiere, bra, bandeau  0.40
+33                                  comic book  0.39
+34         handkerchief, hankie, hanky, hankey  0.38
+35  academic gown, academic robe, judge's robe  0.37
+36                                         wig  0.36
+37                                    ski mask  0.35
+38                        doormat, welcome mat  0.33
+39                             spotlight, spot  0.32
+40                    bow tie, bow-tie, bowtie  0.32
+41                                     whistle  0.31
+42                                  hook, claw  0.29
+43                                sleeping bag  0.28
+44                      can opener, tin opener  0.28
+45                            mailbag, postbag  0.27
+46                                 trench coat  0.26
+47                      loupe, jeweler's loupe  0.26
+48                  cowboy hat, ten-gallon hat  0.25
+49                                         ski  0.25
